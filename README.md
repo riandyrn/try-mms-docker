@@ -9,4 +9,4 @@ It contains several runnable commands which I think make it easy for beginner li
 - `stop` => used for stopping the currently running docker image
 - `test` => used for running sample inference (finding class of `kitten.jpg`)
 
---
+---
